@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am passionate about software development. I have a good command on data structures and algorithms and web development. I am proficient in programming languages like C/C++ and Python.
-My techstack is very diverse and includes:- MERN, Flask, Python Libraries, C/C++, HTML, CSS and Javascript.
+My techstack is very diverse and includes:- MERN, Flask, Python Libraries, C/C++, HTML, CSS and Javascript, AI-ML,PyTorch, GenAI,LLMs.
